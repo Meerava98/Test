@@ -8,10 +8,14 @@
 .parent_div{
 display: flex;
 justify-content: left;
+height: 100%;
+}
+.inside_div{
+width: 50%;
 }
 iframe{
-height: 360px;
-width: 800px;
+height: 50%;
+width: 100%;
 }
 </style>
 <body>
